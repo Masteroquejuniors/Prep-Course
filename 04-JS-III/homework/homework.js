@@ -1,6 +1,6 @@
 // No cambies los nombres de las funciones.
 
-function devolverPrimerElemento(array) {
+function devolverPrimerElemento(ed) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
 }
